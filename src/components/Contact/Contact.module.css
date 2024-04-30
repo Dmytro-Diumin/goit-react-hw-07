@@ -1,0 +1,10 @@
+.wrapIcon {
+  display: flex;
+  align-items: center;
+  flex-wrap: nowrap;
+  margin: 5px;
+}
+
+.wrapIcon:hover {
+  color: #646cff;
+}
